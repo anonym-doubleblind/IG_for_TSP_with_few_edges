@@ -1,4 +1,4 @@
-# The integrality gap of the Traveling Salesman Problem is 4/3 if the LP solution has at most n+6 non-zero components
+# The integrality gap of the Traveling Salesman Problem is 4/3 if the LP solution has at most $n+6$ non-zero components
 
 
 This repository contains the code and data used in the paper:
